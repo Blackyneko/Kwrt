@@ -23,7 +23,7 @@ on:
 
 env:
   TOKEN_KIDDIN9: ${{ secrets.TOKEN_KIDDIN9 }}
-  TZ: Asia/Shanghai
+  TZ: America/Los_Angeles
 
 jobs:
   build:
